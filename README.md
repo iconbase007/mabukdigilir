@@ -1,2 +1,2 @@
-# mabukdigilir
-mabukdigilir
+
+[mabukdigilir](https://mabukdigilir.pages.dev)
